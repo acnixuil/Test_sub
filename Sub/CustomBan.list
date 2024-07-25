@@ -1,0 +1,4 @@
+# Bilibili Pcdn
+DOMAIN-REGEX,^pcdn.*\.biliapi\.net$
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,szbdyd.com
